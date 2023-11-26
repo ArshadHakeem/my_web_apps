@@ -13,7 +13,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background: linear-gradient(45deg, #0a0a0a, #3a4452);
+    background: linear-gradient(45deg, #000000, #4a4637);
 }
 
 .calculator{
@@ -47,9 +47,8 @@ button{
     width: 60px;
     height: 60px;
     margin: 10px;
-    border-radius: 50%;
-    background: transparent;
-    color: #ffffff;
+    background-color: #686464;
+    color: #0a0909;
     font-size: 20px;
     box-shadow: -8px -8px 15px rgba(255, 255, 255, 0.1);
     cursor: pointer;
@@ -61,4 +60,5 @@ button{
 
 .operator{
     color: #6dee0a;
+    background-color: #463838;
 }
