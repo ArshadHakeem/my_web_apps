@@ -1,3 +1,2 @@
-# my_web_apps
-im arshad 
-im from calicut
+# my_web_app
+calculator
